@@ -1,174 +1,174 @@
 [[MuesliMaterials]]
 arch = "aarch64"
-git-tree-sha1 = "c27adbe03915eb7f7fcf699e0377c813fda21a6f"
+git-tree-sha1 = "9b6cc1061928d206dedd3cb107f530bdefddd242"
 os = "macos"
 
     [[MuesliMaterials.download]]
-    sha256 = "6ab5ad95bea229def71b88b2f5c6ef885563a184c815ddd94ad1f23a672ae275"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "bce1b9b198d332346688bb15af59dda0891e05a2b512b6170b14f6d5229f0e6d"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.aarch64-apple-darwin.tar.gz"
 [[MuesliMaterials]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "282e24074f9c222867bee297ba4819819172494c"
+git-tree-sha1 = "7504b0190492b6961bd58e87c1e544352ea6543c"
 libc = "glibc"
 os = "linux"
 
     [[MuesliMaterials.download]]
-    sha256 = "ce9c688a0ba50a19517ed01b161b630e5634b79c456ce5b257ea3203d7a0d71a"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "24661d1713f732ab420ee27fb42ae8eacafa6939eabc56bbf827bc4df86b68ef"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.aarch64-linux-gnu-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b823ea0f8b378ca5473976fbf10c14f63e1a7a70"
+git-tree-sha1 = "8af306d96e77f1b2ede9dc3ed7f82076e0b6ba90"
 libc = "musl"
 os = "linux"
 
     [[MuesliMaterials.download]]
-    sha256 = "6de7ffc91c31269b0393ed61154a99a28b06b9e5c235ca4592fbf319a0728971"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "b47d2006e022afd5e99c31dfb244ff56214f479625258fbe44dca5e3bf08f170"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.aarch64-linux-musl-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "aarch64"
-git-tree-sha1 = "1841936f7043f09ea69c73e92ec7ae8792a4145d"
+git-tree-sha1 = "e9d4811805fdd8e77a6ae1baf7de9c6348a9c28a"
 os = "freebsd"
 
     [[MuesliMaterials.download]]
-    sha256 = "841949baadcd986ff838e721c00cb0b9e425a885957257d228923f5c7da4524d"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "042dfbba40708a059c5c4b6581f65128c6018afb32843aa2a2e289f10742ed20"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.aarch64-unknown-freebsd.tar.gz"
 [[MuesliMaterials]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "64732b48d384b097a0b3199d2fb190ca02d9b41e"
+git-tree-sha1 = "1abfc8af31c77106e5e20e0719b20446adb0bbfb"
 libc = "glibc"
 os = "linux"
 
     [[MuesliMaterials.download]]
-    sha256 = "6205d623a1eee72b01411a4f46f5a797998402eb383e9d287c52bee8c60c85db"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "305c84937ecdfd13316e3b714ea7553f237d18a94819943f6d710202abde6682"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "173fb3a1ee7427e1e22128c66b87689fcd13ced2"
+git-tree-sha1 = "d88879c9d20b5774c6ea7003ea187205c35417a8"
 libc = "musl"
 os = "linux"
 
     [[MuesliMaterials.download]]
-    sha256 = "f90b082df5808fb11f0a06f4e6b067dfeaa8c9277daeaf58b1d2628c720c0ef6"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "ab87100dd7b2b6c9b6c9b89b85b345509d64f43686a9b36e9e19719a1b0548b2"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f862f11b11b2a9090d33baedbfbe74962d03f8ef"
+git-tree-sha1 = "53854b01ff17142d01445b10ea32d60967670154"
 libc = "glibc"
 os = "linux"
 
     [[MuesliMaterials.download]]
-    sha256 = "21e88370b194d6eb81306b588c9a030dcd47010438d9e319ff57938770e39ee5"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "92930706a136f45c232c413fbee6a514159c904d68c7a659054071b1999e4a1b"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "bf8da2ce1c9d93a8359b82a19a832adcb1f7b9b8"
+git-tree-sha1 = "08a11eea939bf8258597b2c38951c6c37ec141db"
 libc = "musl"
 os = "linux"
 
     [[MuesliMaterials.download]]
-    sha256 = "48300209068b675b9fa5c5d1d9ca7c7898a0c780352d2702f50281b3a1437b01"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "a59cb2d704e3c24160b8ab7ec99f2e3eca6b430dfeacbf62a5a67b6469bee249"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4d77528fdc0b72d1121c933feee417aef42547bb"
+git-tree-sha1 = "48391ba450a15f077d389214929373a85ea58656"
 libc = "glibc"
 os = "linux"
 
     [[MuesliMaterials.download]]
-    sha256 = "28817987f6251eda28d6a0c5587850f141ca2902e94ec2ffd7bc788bcbaa05d2"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "d76e19902129160453a2acc693c1e9357cf662e099b25c2cc46a5a7b7e168468"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.i686-linux-gnu-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "684d724489818285772627997cacb62edc2acd06"
+git-tree-sha1 = "aca3b6874f7bbb91c74dc6c4a4338cd7ac4074d4"
 libc = "musl"
 os = "linux"
 
     [[MuesliMaterials.download]]
-    sha256 = "7e8195bdcfa3065f852f73ffbe96eb1e8ea9e4fa531a2001dc81de02c467dc7b"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "6d78f940c7fdf2fa3109e71d0e0662d35fe13351144c574c0068609fb1c08cf6"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.i686-linux-musl-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a8a9f70a349a0e0dca427fe2948a79ca5a02fc07"
+git-tree-sha1 = "d3b0023cfafb4f4c3403ff1fdd5e0e850bc922a4"
 os = "windows"
 
     [[MuesliMaterials.download]]
-    sha256 = "77ec3f7a633fdd03aebe5a97e0b24d0659c52bb9c24c382516b85dda781b0fe2"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "2739e683a33ffa78a32fbaf74f8a09ea74c073e4bd9264d00c47930c809efc18"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.i686-w64-mingw32-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a29a979b4cdf81415b59d4d20b8071a2f39535a4"
+git-tree-sha1 = "90932cc306c960b010105c513602ad743468b0d0"
 libc = "glibc"
 os = "linux"
 
     [[MuesliMaterials.download]]
-    sha256 = "c63732929ea7a4d4ed6618d0d9d7903fb7e993fe334a3e76a44c1b50c8592882"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "62101a0cf52bf5bc9a0049fe2462d775848f2ee5dce8a3025c45669ea1b28b29"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e8eb02bcec0a1877e9caac019128a8b1ee9e8311"
+git-tree-sha1 = "a01363684f47a79c75d6ba6c164f7dd6e54a2418"
 libc = "glibc"
 os = "linux"
 
     [[MuesliMaterials.download]]
-    sha256 = "bb0fd2fc852d1f174b1c7d43564bde7264b1fc4d4e676255622fcd3c2069e219"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "295ae3c73ca2f4a69d47eb6f4491cda263b658089a95786dccbcbce5a014db61"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.riscv64-linux-gnu-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "x86_64"
-git-tree-sha1 = "7c4a0d4997550e0d3b89f891042944ea0bff7fd7"
+git-tree-sha1 = "b072a4f796c494afe7ff43e51dbfaa0da76b6c8c"
 os = "macos"
 
     [[MuesliMaterials.download]]
-    sha256 = "0336774ad5130eeb9506e301cc4166f034b1beec4a1a7a4840205b2a306d87f1"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "9d12a202c5f1d25620c8e017806881e07af870e40d33b9f679f772beee96ae17"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.x86_64-apple-darwin.tar.gz"
 [[MuesliMaterials]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6401ac6832f09f59af611e6883581224012fd429"
+git-tree-sha1 = "17b12b50afbd02fe2cf237afbe9079b9f9401a01"
 libc = "glibc"
 os = "linux"
 
     [[MuesliMaterials.download]]
-    sha256 = "11b007ab19fd0908db515dabaca599f15641481655a65cfed01ea41f607e1106"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "3c08fb4c27d2e7a4d06c5f60b34cdf7be0bce1605df2faf5fdbd210444f08be1"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.x86_64-linux-gnu-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5b48ecd70a1978189dd82de02d660bfd0205e4b6"
+git-tree-sha1 = "010438db97fbb41118de6a04c1c06cd08ef8c686"
 libc = "musl"
 os = "linux"
 
     [[MuesliMaterials.download]]
-    sha256 = "52cedd859c9c715475098b5dd857e0e9513f6c36a515dcac2c94df4f3c6f6539"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "0bc0139b478e9207d919cee4d2ab4fe4e82ff2c5df344d010430be2c64644723"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.x86_64-linux-musl-cxx11.tar.gz"
 [[MuesliMaterials]]
 arch = "x86_64"
-git-tree-sha1 = "f8ff5c1256d9c256dfc5d6cfe122c96c30a84da5"
+git-tree-sha1 = "036d0b259035094c001cc49e34a73f6f9f26d7e7"
 os = "freebsd"
 
     [[MuesliMaterials.download]]
-    sha256 = "2bc98cb8ae13e1d080981d5e464690813d95c66e013073968bb481d89280b8b9"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "72cf8df10b867d7f244c74bd50078cea7551940c9016c32bf647ab2347985e1b"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.x86_64-unknown-freebsd.tar.gz"
 [[MuesliMaterials]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "7546ce28947b9b0c0e875a7384b70f0af77c3d59"
+git-tree-sha1 = "7178b3fc5cb5acf912978a7cc838dc22fc275577"
 os = "windows"
 
     [[MuesliMaterials.download]]
-    sha256 = "70e989009f55bb06a5e313188b2311d80865bb24dee4d17030654e5be8c667ef"
-    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.1+0/MuesliMaterials.v1.16.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "81b98c687164e4bb18cc1b0374da74bce80d24a91baaec8ca1cb318dbde74b90"
+    url = "https://github.com/JuliaBinaryWrappers/MuesliMaterials_jll.jl/releases/download/MuesliMaterials-v1.16.2+0/MuesliMaterials.v1.16.2.x86_64-w64-mingw32-cxx11.tar.gz"
